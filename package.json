@@ -1,0 +1,20 @@
+{
+  "name": "rehooks",
+  "version": "1.0.0",
+  "description": "An experimental implementation to replace Redux with Hooks",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "next",
+    "react-dom": "next",
+    "react-scripts": "2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}

@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+a.wasted {
+  text-decoration: none;
+  background-color: coral;
+  color: white;
+  font-weight: 600;
+  padding: 10px;
+}
+
+a.reset {
+  text-decoration: none;
+  background-color: cadetblue;
+  color: white;
+  font-weight: 600;
+  padding: 10px;
+}
